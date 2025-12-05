@@ -37,6 +37,7 @@ public class Main {
             default : System.exit(0);
         }
         System.out.println();
+        System.out.println("Compleated.....");
     }
 
 }
