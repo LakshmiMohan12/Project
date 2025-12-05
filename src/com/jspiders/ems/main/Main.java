@@ -26,13 +26,13 @@ public class Main {
             case 1 : empSrv.addEmployee();
                 break;
             case 2 :
-                System.out.println("View employee");
+                System.out.println("View employee:");
                 break;
             case 3 :
-                System.out.println("Update employee");
+                System.out.println("Update employee:");
                 break;
             case 4 :
-                System.out.println("Delete employee");
+                System.out.println("Delete employee:");
                 break;
             default : System.exit(0);
         }
